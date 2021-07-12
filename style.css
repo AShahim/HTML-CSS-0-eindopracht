@@ -1,19 +1,19 @@
-  body {
+body {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windows10abstract.png/1200px-Windows10abstract.png");
 }
 
 h1 {
-  background-color: blueviolet;
-  color: darkblue;
+  background-color:darkslateblue;
+  color: white;
 }
 
 p {
-  background-color:darkorchid;
-  color:darkblue;
+  background-color:darkslateblue;
+  color:white;
 }
 
 img {
-  background-color:darkorchid;
+  background-color:darkslateblue;
 }
 
 tr {
